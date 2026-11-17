@@ -6,6 +6,20 @@ raycaster, containerised infrastructure and a multiplayer web game with a team.
 
 I'm looking for a **junior software engineer** role.
 
+### How I learned: 42
+
+42 has no teachers and no classes. Each project comes with a goal and a set of rules,
+and it's up to you to work out how to get there: reading documentation and man pages,
+trying things, breaking them and asking other students. Every project is then reviewed
+by peers, who test it and ask you to explain your code before it passes.
+
+That way of working is what I take from 42: getting to a result on my own when there is
+nobody to give me the answer, learning a new tool or language quickly when a project
+needs it, and explaining and defending my decisions in code reviews.
+
+42 was ranked the [3rd most innovative university in the world](https://www.42network.org/blog/breaking-news-42-ranks-3rd-worldwide-for-innovation/)
+in the WURI rankings in 2025 and again in 2026.
+
 ### What I've built
 
 **[revisatualquiler.es](https://www.revisatualquiler.es)** · my own product, in production (available in Spain only)
