@@ -64,7 +64,7 @@ mutexes, the dining philosophers problem) and [push_swap](https://github.com/yas
 ### Tools I've worked with
 
 - **Languages:** C, C++, TypeScript, JavaScript, SQL, Bash
-- **Web:** React, Vite, Tailwind CSS, Node.js serverless functions, REST APIs
+- **Web:** React, Vite, Tailwind CSS, Node.js serverless functions, REST APIs, WebSockets (Laravel Reverb)
 - **Data and services:** PostgreSQL (Supabase), MariaDB, Stripe, Resend
 - **Infrastructure:** Docker, Docker Compose, NGINX, Linux, Vercel, Git
 
